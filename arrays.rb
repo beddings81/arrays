@@ -24,3 +24,7 @@ Over_18.unshift("False")
 #corresponds with that element should be used. As weird as it may seem, counting
 # starts with 0 in most programming languages. That number is referred to as an
 #index position.
+
+#the method clear removes all elements from an array.
+#`Over_18.clear` would remove everything from the array
+Over_18.clear
